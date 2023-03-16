@@ -1,4 +1,5 @@
 .idea/
-assets/images/
-assets/video/
-assets/fonts/
+*mp4
+*jpg
+*png
+*svg
